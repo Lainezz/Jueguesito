@@ -51,6 +51,8 @@ while estaCorriendo:
     elif jugador.posX >= 736:
         jugador.posX = 736
 
+    ##gg
+    
     #Actualizamos la posicion del enemigo
     enemy.posX += enemy.cambiarPosicion
     if enemy.posX <= 0 or enemy.posX >= 736:
