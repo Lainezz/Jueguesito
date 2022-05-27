@@ -88,3 +88,8 @@ build.xml
 .DS_Store
 /EjercicioClaseGIT/nbproject/private/
 /EjercicioGITClase/nbproject/private/
+
+##############################
+## Python
+##############################
+__pycache__/*
